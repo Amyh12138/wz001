@@ -42,7 +42,7 @@ public class TableInfoController {
     public static void main(String[] args) {
         String aaaa ="11111";
         String bbbb ="11111";
-        System.out.println(aaaa);
+//        System.out.println(aaaa);
         System.out.println(bbbb);
     }
 
