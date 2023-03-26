@@ -39,14 +39,14 @@ public class TableInfoController {
 //        return sqlBuilder.buildCreateTableSql(tableSchema);
     }
 
-//    public static void main(String[] args) {
-//        String aaaa ="11111";
-//        String bbbb ="11111";
-//
-//        System.out.println("aaaa = " + aaaa);
-//        System.out.println("bbbb = " + bbbb);
-//        System.out.println(aaaa);
-//        System.out.println(bbbb);
-//    }
+    public static void main(String[] args) {
+        String aaaa ="11111";
+        String bbbb ="11111";
+
+        System.out.println("aaaa = " + aaaa);
+        System.out.println("bbbb = " + bbbb);
+        System.out.println(aaaa);
+        System.out.println(bbbb);
+    }
 
 }
